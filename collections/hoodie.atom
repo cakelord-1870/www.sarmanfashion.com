@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.sarmanfashion.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.sarmanfashion.com/collections/hoodie.atom"/>
+  <title>Sarman Fashion - Wholesale Clothing Fashion Brand for Men from Canada</title>
+  <updated>2021-05-02T07:36:05-04:00</updated>
+  <author>
+    <name>Sarman Fashion - Wholesale Clothing Fashion Brand for Men from Canada</name>
+  </author>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/6805037908168</id>
+    <published>2021-05-02T07:36:05-04:00</published>
+    <updated>2021-05-02T07:36:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/rostan-grey-green-sleeveless-hoodie-for-men"/>
+    <title>Rostan - Grey/Green Sleeveless Hoodie for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/rostan-greygreen-sleeveless-hoodie-for-men-512045.jpg?v=1622868948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            55.96 - 55.99
+            <a href="https://www.sarmanfashion.com/products/rostan-grey-green-sleeveless-hoodie-for-men">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Logo on the chest</span></p>
+<p style="margin: 0px;"><span>- 3/4 Zipper</span></p>
+<p style="margin: 0px;"><span>- The straight bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- No sleeves</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- 65% Cotton 35% Polyester <br></span></p>
+<p style="margin: 0px;"> </p>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"> </span></div>
+<meta charset="UTF-8">
+<p style="margin: 0px;"><strong>MODEL 2<br>Length: 5’11<br>Weight: 220Lbs<br>T-Shirt Size: XL</strong></p>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"> <strong>MODEL 1<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Shirt Size: Medium</span></span></p>
+<p style="margin: 0px;"> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805037908168</id>
+      <title>XS</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805037908168</id>
+      <title>S</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805037908168</id>
+      <title>M</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805037908168</id>
+      <title>L</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805037908168</id>
+      <title>XL</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805037908168</id>
+      <title>XXL</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805037908168</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">55.96</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/6805005533384</id>
+    <published>2021-05-02T07:10:14-04:00</published>
+    <updated>2021-05-02T07:10:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/copy-of-paramous-dark-blue-sleeveless-hoodie-for-men"/>
+    <title>Akuna - Grey/Green Sleeveless Hoodie for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/akuna-greygreen-sleeveless-hoodie-for-men-912647.jpg?v=1619970533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Logo on the chest</span></p>
+<p style="margin: 0px;"><span>- The straight bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- No sleeves</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- 65% Cotton 35% Polyester <br></span></p>
+<p style="margin: 0px;"> </p>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"> </span></div>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"></span></div>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"> <strong>MODEL 1<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Shirt Size: Medium</span></span></p>
+<p style="margin: 0px;"> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805005533384</id>
+      <title>XS</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805005533384</id>
+      <title>S</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805005533384</id>
+      <title>M</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805005533384</id>
+      <title>L</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805005533384</id>
+      <title>XL</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805005533384</id>
+      <title>XXL</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6805005533384</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/6804949074120</id>
+    <published>2021-05-02T06:21:48-04:00</published>
+    <updated>2021-05-02T06:21:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/paramous-dark-blue-sleeveless-hoodie-for-men"/>
+    <title>Paramous - Dark Blue Sleeveless Hoodie for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/paramous-dark-blue-sleeveless-hoodie-for-men-503806.jpg?v=1620792508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Logo on the chest</span></p>
+<p style="margin: 0px;"><span>- Zipper in Middle<br></span></p>
+<p style="margin: 0px;"><span>- The straight bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- No sleeves</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- 65% Cotton 35% Polyester </span></p>
+<p style="margin: 0px;"> </p>
+<meta charset="UTF-8">
+<p style="margin: 0px;"><strong>MODEL 1<br>Length: 5’11<br>Weight: 220Lbs<br>Size: XL</strong></p>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"> <strong>MODEL 2<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Size: Medium</span></span></p>
+<p style="margin: 0px;"> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804949074120</id>
+      <title>XS</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804949074120</id>
+      <title>S</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804949074120</id>
+      <title>M</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804949074120</id>
+      <title>L</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804949074120</id>
+      <title>XL</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804949074120</id>
+      <title>XXL</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804949074120</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/6804904542408</id>
+    <published>2021-05-02T05:48:30-04:00</published>
+    <updated>2021-05-02T05:48:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/copy-of-hines-black-khaki-hoodie-for-men"/>
+    <title>RockaBelti - Black/Khaki Hoodie for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/rockabelti-blackkhaki-hoodie-for-men-103086.jpg?v=1619970533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Logo on the chest</span></p>
+<p style="margin: 0px;"><span>- Zipper in Middle<br></span></p>
+<p style="margin: 0px;"><span>- The straight bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- Long sleeve</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- 95% Polyester 5% Elastane<br></span></p>
+<p style="margin: 0px;"> </p>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"> </span></div>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"></span></div>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"> <strong>MODEL 1<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Shirt Size: Medium</span></span></p>
+<p style="margin: 0px;"> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804904542408</id>
+      <title>XS</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804904542408</id>
+      <title>S</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804904542408</id>
+      <title>M</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804904542408</id>
+      <title>L</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804904542408</id>
+      <title>XL</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804904542408</id>
+      <title>XXL</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6804904542408</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/6802171134152</id>
+    <published>2021-04-29T20:44:51-04:00</published>
+    <updated>2021-04-29T20:44:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/copy-of-fate-black-flowers-hoodie-for-men"/>
+    <title>Hines - Black/Yellow Hoodie for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/hines-blackyellow-hoodie-for-men-374296.jpg?v=1620920887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Logo on the chest</span></p>
+<p style="margin: 0px;"><span>- Zipper in Middle<br></span></p>
+<p style="margin: 0px;"><span>- The straight bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- Long sleeve</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- 95% Polyester 5% Elastane<br></span></p>
+<p style="margin: 0px;"> </p>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<span style="color: #ec0606;"><span style="color: #ec0606;"> </span></span>
+<p> </p>
+<p><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"> <strong>MODEL 1<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Shirt Size: Medium</span></span></p>
+</div>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"></span></div>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL 2<br></strong>Length: 5'11<br>Weight: 220Lbs<br>Shirt Size: XLarge</span></span></p>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6802171134152</id>
+      <title>XS</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6802171134152</id>
+      <title>S</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6802171134152</id>
+      <title>M</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6802171134152</id>
+      <title>L</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6802171134152</id>
+      <title>XL</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6802171134152</id>
+      <title>XXL</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/6802171134152</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4724647690322</id>
+    <published>2020-07-31T17:47:55-04:00</published>
+    <updated>2020-07-31T17:47:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/copy-of-alpha-male-black-long-sleeve-sweatshirt-for-men-pre-order-dispatch-date-25-september"/>
+    <title>Fate - Black/Flowers Hoodie for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/fate-blackflowers-hoodie-for-men-pre-order-dispatch-date-25-september-151991.jpg?v=1629492694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Embroidered logo on the chest</span></p>
+<p style="margin: 0px;"><span>- Zipper in Middle<br></span></p>
+<p style="margin: 0px;"><span>- The straight bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- Long sleeve</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- 70% Viscose 25% Polyester 5% Elastane<br></span></p>
+<p style="margin: 0px;"> </p>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"><br></span></div>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"></span></div>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Shirt Size: Medium</span></span></p>
+<p style="margin: 0px;"> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724647690322</id>
+      <title>XS</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724647690322</id>
+      <title>S</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724647690322</id>
+      <title>M</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724647690322</id>
+      <title>L</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724647690322</id>
+      <title>XL</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724647690322</id>
+      <title>XXL</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724647690322</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4723236995154</id>
+    <published>2020-07-30T15:09:57-04:00</published>
+    <updated>2020-07-30T15:09:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/apha-male-black-long-sleeve-sweatshirt-for-men-pre-order-dispatch-date-25-september"/>
+    <title>Alpha Male - Black Long Sleeve Sweatshirt for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/alpha-male-black-long-sleeve-sweatshirt-for-men-pre-order-dispatch-date-25-september-908208.jpg?v=1613384395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Embroidered logo on the chest</span></p>
+<p style="margin: 0px;"><span>- Zipper in Middle<br></span></p>
+<p style="margin: 0px;"><span>- The straight bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- Long sleeve</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- Suet Fabric<br></span></p>
+<p style="margin: 0px;"><span>- 95% Polyester 5% Elastane</span></p>
+<p style="margin: 0px;"> </p>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"><br></span></div>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"></span></div>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Shirt Size: Medium</span></span></p>
+<p style="margin: 0px;"><iframe src="https://www.youtube.com/embed/5f_4tRjLdNo" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jackets</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723236995154</id>
+      <title>XS</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723236995154</id>
+      <title>S</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723236995154</id>
+      <title>M</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723236995154</id>
+      <title>L</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723236995154</id>
+      <title>XL</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723236995154</id>
+      <title>XXL</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723236995154</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4430068383826</id>
+    <published>2019-12-11T21:47:16-05:00</published>
+    <updated>2019-12-11T21:47:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/untouchable"/>
+    <title>Untouchable - Black Hoodie for Men</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/untouchable-418247.jpg?v=1578329339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><span>- Cotton Jersey <br>- Embroidered logo on the chest <br>- Hood with lace <br>- Machine washable <br>- 100% Cotton Fleece</span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>S / Black Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>S / Gold Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>S / White Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>M / Black Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>M / Gold Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>M / White Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>L / Black Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>L / Gold Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>L / White Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>XL / Black Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>XL / Gold Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>XL / White Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>XXL / Black Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>XXL / Gold Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>XXL / White Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>XXXL / Black Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>XXXL / Gold Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4430068383826</id>
+      <title>XXXL / White Logo</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4223015518290</id>
+    <published>2019-11-02T18:09:29-04:00</published>
+    <updated>2019-11-02T18:09:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/drifter"/>
+    <title>Drifter - Black Hoodie for Men</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/drifter-731418.jpg?v=1578329275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            37.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><pre class="tw-data-text tw-text-large tw-ta" data-placeholder="Translation" id="tw-target-text" style="text-align: left;" dir="ltr"><span tabindex="0" lang="en">- Embroidered logo on the chest
+- Drawstring hood
+- Slant pockets
+- Elasticated cuffs
+- Machine washable
+- 95% Polyester, 5% Elastane<br>- Pants are sold separately, Thank you<br></span></pre></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4223015518290</id>
+      <title>S</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4223015518290</id>
+      <title>M</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4223015518290</id>
+      <title>L</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4223015518290</id>
+      <title>XL</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4223015518290</id>
+      <title>XXL</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4211851460690</id>
+    <published>2019-11-02T18:09:26-04:00</published>
+    <updated>2019-11-02T18:09:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/fresh"/>
+    <title>Fresh - Green Track Jacket for Men</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/fresh-green-track-jacket-for-men-693473.jpg?v=1615848969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Embroidered logo on the chest</p>
+<p>- Lightning ¾</p>
+<p>- Slant pockets</p>
+<p>- Signature sleeves on sleeves</p>
+<p>- Machine washable</p>
+<p>- 95% Polyester 5% Elastane</p>
+<p>- Pants are sold separately, Thank you</p>
+<p> </p>
+<meta charset="UTF-8">
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL  </strong></span></span></p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong><br></strong>Length: 1.80m<br>Weight: 202Lbs<br>T-Shirt Size: Medium</span></span></p>
+<p style="margin: 0px;"> </p>
+<p><iframe src="https://www.youtube.com/embed/qSj8Ofxy2GA" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Track Jackets</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4211851460690</id>
+      <title>S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4211851460690</id>
+      <title>M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4211851460690</id>
+      <title>L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4211851460690</id>
+      <title>XL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4211851460690</id>
+      <title>XXL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4206865481810</id>
+    <published>2019-09-26T15:26:03-04:00</published>
+    <updated>2019-09-26T15:26:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/eagle"/>
+    <title>Aquila - Black Track Jacket for Men</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/aquila-218741.jpg?v=1578329358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Embroidered logo on the chest</p>
+<p>- Lightning ¾</p>
+<p>- Slant pockets</p>
+<p>- Signature sleeves on sleeves</p>
+<p>- Machine washable</p>
+<p>- 95% Polyester 5% Elastane</p>
+<p>- Pants are sold separately, Thank you <br></p>
+<p><iframe src="https://www.youtube.com/embed/vmuYzbPM5Ns" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206865481810</id>
+      <title>S</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206865481810</id>
+      <title>M</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206865481810</id>
+      <title>L</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206865481810</id>
+      <title>XL</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206865481810</id>
+      <title>XXL</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4206850441298</id>
+    <published>2019-09-26T15:26:03-04:00</published>
+    <updated>2019-09-26T15:26:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/olympia"/>
+    <title>Olympia - Purple/White Hoodie for Men</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/olympia-240657.jpg?v=1596594400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            37.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Embroidered logo on the chest</p>
+<p>- Drawstring hood</p>
+<p>- Slant pockets on the lock</p>
+<p>- Gradient</p>
+<p>- Inserts on the sleeves</p>
+<p>- Machine washable</p>
+<p>- 95% Polyester 5% Elastane</p>
+<p>- Pants are sold separately, Thank you</p>
+<p> </p>
+<p><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Hoodie Size: Medium</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206850441298</id>
+      <title>S</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206850441298</id>
+      <title>M</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206850441298</id>
+      <title>L</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206850441298</id>
+      <title>XL</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206850441298</id>
+      <title>XXL</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4206826487890</id>
+    <published>2019-09-26T15:05:31-04:00</published>
+    <updated>2019-09-26T15:05:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/emprero"/>
+    <title>Emperor - Burgundy/White Hoodie for Men</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/emperor-675815.jpg?v=1602530121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            37.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embroidered logo on chest</p>
+<p>- White bottom of the product</p>
+<p>- The upper part of the product is Bordeaux</p>
+<p>- Hood with lacing</p>
+<p>- Machine washable</p>
+<p>- 70% cotton 30% polyester</p>
+<p>- Pants are sold separately, Thank you</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206826487890</id>
+      <title>S</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206826487890</id>
+      <title>M</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206826487890</id>
+      <title>L</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206826487890</id>
+      <title>XL</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206826487890</id>
+      <title>XXL</title>
+      <s:price currency="CAD">37.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/3995201339474</id>
+    <published>2019-08-09T19:32:45-04:00</published>
+    <updated>2019-08-09T19:32:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/sapphire"/>
+    <title>Sapphire - Blue Hoodie for Men</title>
+    <s:type></s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/sapphire-657206.jpg?v=1578329742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Embroidered logo on the chest</p>
+<p>- Drawstring hood</p>
+<p>- Kangaroo pockets</p>
+<p>- Inserts on the sleeves</p>
+<p>- Machine washable</p>
+<p>- 95% Polyester 5% Elastane</p>
+<p> </p>
+<p><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>T-Shirt Size: Medium</span></span></p>
+<p><iframe src="https://www.youtube.com/embed/ClhapXlNQic" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3995201339474</id>
+      <title>S</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3995201339474</id>
+      <title>M</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3995201339474</id>
+      <title>L</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3995201339474</id>
+      <title>XL</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3995201339474</id>
+      <title>XXL</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/3859037782098</id>
+    <published>2019-06-21T09:30:58-04:00</published>
+    <updated>2019-06-21T09:30:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/hoodie-top-deluge"/>
+    <title>Deluge - Blue Hoodie for Men</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/deluge-687148.jpg?v=1578329278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><span>- Cotton Jersey <br> - Embroidered logo on the chest <br> - Hood with lace <br> - Pocket "Kangaroo" <br> - Machine wash <br> - 78% Viscose, 18% Polyester, 4% Spandex</span></span></p>
+<p> </p>
+<p><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><span><strong>MODEL<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Hoodie Size: Medium</span></span></p>
+<p><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><span><iframe src="https://www.youtube-nocookie.com/embed/a4NWdXzqN1c" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodies</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859037782098</id>
+      <title>XS</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859037782098</id>
+      <title>S</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859037782098</id>
+      <title>M</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859037782098</id>
+      <title>L</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859037782098</id>
+      <title>XL</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859037782098</id>
+      <title>XXL</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

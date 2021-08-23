@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.sarmanfashion.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.sarmanfashion.com/collections/long-sleeves-shirt.atom"/>
+  <title>Sarman Fashion - Wholesale Clothing Fashion Brand for Men from Canada</title>
+  <updated>2020-10-15T01:24:15-04:00</updated>
+  <author>
+    <name>Sarman Fashion - Wholesale Clothing Fashion Brand for Men from Canada</name>
+  </author>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4830541873234</id>
+    <published>2020-10-15T01:24:15-04:00</published>
+    <updated>2020-10-15T01:24:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/copy-of-baseball-black-white-long-sleeves-shirt-for-men-pre-order-dispatch-date-1-juin-2021"/>
+    <title>Dinger - White Long Sleeves Shirt for Men</title>
+    <s:type>Men&apos;s Short Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/dinger-white-long-sleeves-shirt-for-men-294756.jpg?v=1628968700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Short Sleeves Shirt<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Embroidered logo on the chest</span></p>
+<p style="margin: 0px;"><span>- Ribbed fabric</span></p>
+<p style="margin: 0px;"><span>- The curved bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- Long sleeve</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- The fitted tight-fitting</span></p>
+<meta charset="UTF-8">
+<p style="margin: 0px;"><span>- 95% Polyester 5% Elastane </span></p>
+<br>
+<p style="margin: 0px;"><span> </span></p>
+<blockquote></blockquote>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>T-Shirt Size: Medium</span></span></p>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"> </span></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830541873234</id>
+      <title>XS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830541873234</id>
+      <title>S</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830541873234</id>
+      <title>M</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830541873234</id>
+      <title>L</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830541873234</id>
+      <title>XL</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830541873234</id>
+      <title>XXL</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830541873234</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4830525587538</id>
+    <published>2020-10-15T01:17:49-04:00</published>
+    <updated>2020-10-15T01:17:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/copy-of-baseball-long-sleeves-shirt-for-men-pre-order-dispatch-date-1-juin-2021"/>
+    <title>Blooper - Black/White Long Sleeves Shirt for Men</title>
+    <s:type>Men&apos;s Short Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/blooper-blackwhite-long-sleeves-shirt-for-men-268327.jpg?v=1629141726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Short Sleeves Shirt<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Embroidered logo on the chest</span></p>
+<p style="margin: 0px;"><span>- Ribbed fabric</span></p>
+<p style="margin: 0px;"><span>- The curved bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- Long sleeve</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- The fitted tight-fitting</span></p>
+<meta charset="UTF-8">
+<p style="margin: 0px;"><span>- 95% Polyester 5% Elastane </span></p>
+<br>
+<p style="margin: 0px;"><span> <br><strong>MODEL 1<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>T-Shirt Size: Medium<br></span></p>
+<p style="margin: 0px;"> </p>
+<p><strong>MODEL 2</strong><br>Length: 5’11<br>Weight: 220Lbs<br>T-Shirt Size: XL</p>
+<p> </p>
+<p> </p>
+<p style="margin: 0px;"> </p>
+<blockquote></blockquote>
+<p style="margin: 0px;"> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830525587538</id>
+      <title>XS</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830525587538</id>
+      <title>S</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830525587538</id>
+      <title>M</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830525587538</id>
+      <title>L</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830525587538</id>
+      <title>XL</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830525587538</id>
+      <title>XXL</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830525587538</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4830510678098</id>
+    <published>2020-10-15T01:10:31-04:00</published>
+    <updated>2020-10-15T01:10:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/copy-of-gentlement-white-t-shirt-for-men-pre-order-dispatch-date-1-juin-2021"/>
+    <title>BaseBall - Black/White Long Sleeves Shirt for Men</title>
+    <s:type>Men&apos;s Short Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/baseball-blackwhite-long-sleeves-shirt-for-men-174513.jpg?v=1629574359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Short Sleeves Shirt<br>
+        <strong>Price: </strong>
+            65.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Embroidered logo on the chest</span></p>
+<p style="margin: 0px;"><span>- Ribbed fabric</span></p>
+<p style="margin: 0px;"><span>- The curved bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- Long sleeve</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- The fitted tight-fitting</span></p>
+<meta charset="UTF-8">
+<p style="margin: 0px;"><span>- 95% Polyester 5% Elastane </span></p>
+<br>
+<p style="margin: 0px;"><span> </span></p>
+<p style="margin: 0px;"> </p>
+<blockquote></blockquote>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>T-Shirt Size: Medium</span></span></p>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"> </span></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830510678098</id>
+      <title>XS</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830510678098</id>
+      <title>S</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830510678098</id>
+      <title>M</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830510678098</id>
+      <title>L</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830510678098</id>
+      <title>XL</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830510678098</id>
+      <title>XXL</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4830510678098</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4829862821970</id>
+    <published>2020-10-14T17:35:00-04:00</published>
+    <updated>2020-10-14T17:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/copy-of-raphael-blue-black-short-sleeves-shirt-for-men-pre-order-dispatch-date-1-juin-2021"/>
+    <title>Bambi - Blue/Black Long Sleeves Jeans Shirt for Men</title>
+    <s:type>Men&apos;s Short Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/bambi-blueblack-long-sleeves-jeans-shirt-for-men-465991.jpg?v=1623937171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Short Sleeves Shirt<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Collar Stand </span><br><span>- Denim </span><br><span>- Contrasting Black sleeves Jersey </span><br><span>- Embroidered logo on the chest </span><br><span>- a curved lower edge products </span><br><span>- Long Sleeves  </span><br><span>- fitted cut </span><br><span>- Machine wash </span><br><span>- 89% cotton 8% polyester, 3% elastane; sleeves: 95% cotton 5% elastane</span></p>
+<br>
+<p style="margin: 0px;"><span> </span> </p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong> MODEL 1<br> Length: 5’11<br>Weight: 220Lbs<br>T-Shirt Size: XL<br></strong></span></span></p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong><br>MODEL 2<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>T-Shirt Size: Medium</span></span></p>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"> </span></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4829862821970</id>
+      <title>XS</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4829862821970</id>
+      <title>S</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4829862821970</id>
+      <title>M</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4829862821970</id>
+      <title>L</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4829862821970</id>
+      <title>XL</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4829862821970</id>
+      <title>XXL</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4829862821970</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4724365033554</id>
+    <published>2020-07-31T09:13:14-04:00</published>
+    <updated>2020-07-31T09:13:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/base-1-grey-long-sleeve-shirt-for-men-pre-order-dispatch-date-25-september"/>
+    <title>Base 1 - Black Long Sleeve Shirt for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/base-1-black-long-sleeve-shirt-for-men-217896.jpg?v=1628968701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Embroidered logo on the chest</span></p>
+<p style="margin: 0px;"><span>- Ribbed fabric</span></p>
+<p style="margin: 0px;"><span>- The curved bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- Long sleeve</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- The fitted tight-fitting</span></p>
+<p style="margin: 0px;"><span>- 64% Polyester 33% Vicsone 3% Elastane</span></p>
+<p style="margin: 0px;"> </p>
+<br>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"></span></div>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Shirt Size: Medium</span></span></p>
+<p style="margin: 0px;"> <iframe src="https://www.youtube.com/embed/eCWK2Q7846I" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" width="560" height="315" frameborder="0"></iframe></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724365033554</id>
+      <title>XS</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724365033554</id>
+      <title>S</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724365033554</id>
+      <title>M</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724365033554</id>
+      <title>L</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724365033554</id>
+      <title>XL</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724365033554</id>
+      <title>XXL</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4724365033554</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4723227131986</id>
+    <published>2020-07-30T14:49:17-04:00</published>
+    <updated>2020-07-30T14:49:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/resonance-grey-black-long-sleeve-shirt-for-men-pre-order-dispatch-date-25-september"/>
+    <title>Resonance - Grey/Black Long Sleeve Shirt for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/resonance-greyblack-long-sleeve-shirt-for-men-593720.jpg?v=1629487888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Embroidered logo on the chest</span></p>
+<p style="margin: 0px;"><span>- Ribbed fabric</span></p>
+<p style="margin: 0px;"><span>- The curved bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- Long sleeve</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- The fitted tight-fitting</span></p>
+<p style="margin: 0px;"><span>- 64% Polyester 33% Vicsone 3% Elastane</span></p>
+<p style="margin: 0px;"> </p>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"><br></span></div>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"></span></div>
+<p style="margin: 0px;"><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Shirt Size: Medium</span></span></p>
+<p style="margin: 0px;"> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723227131986</id>
+      <title>XS</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723227131986</id>
+      <title>S</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723227131986</id>
+      <title>M</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723227131986</id>
+      <title>L</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723227131986</id>
+      <title>XL</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723227131986</id>
+      <title>XXL</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723227131986</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4723204685906</id>
+    <published>2020-07-30T14:18:54-04:00</published>
+    <updated>2020-07-30T14:18:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/leopard-grey-long-sleeve-shirt-for-men-pre-order-dispatch-date-25-september"/>
+    <title>Leopard - Grey Long Sleeve Shirt for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/leopard-grey-long-sleeve-shirt-for-men-pre-order-dispatch-date-25-september-818938.jpg?v=1614812179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p style="margin: 0px;"><span>- Embroidered logo on the chest</span></p>
+<p style="margin: 0px;"><span>- Ribbed fabric</span></p>
+<p style="margin: 0px;"><span>- The curved bottom edge of the product</span></p>
+<p style="margin: 0px;"><span>- Long sleeve</span></p>
+<p style="margin: 0px;"><span>- Machine washable</span></p>
+<p style="margin: 0px;"><span>- The fitted tight-fitting</span></p>
+<p style="margin: 0px;"><span>- 64% Polyester 33% Vicsone 3% Elastane</span></p>
+<p style="margin: 0px;"> <br><br>MODEL 1<br><span>Length: 1.80m</span><br><span>Weight: 202Lbs</span><br><span>Shirt Size: Medium</span></p>
+<p style="margin: 0px;"> </p>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt">
+<p><strong>MODEL 2</strong></p>
+<p><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux">Length: 6ft<br>Weight: 235Lbs<br>Shirt Size: XL</span></span></p>
+</div>
+<div data-ux="Text" data-aid="PRODUCT_DESCRIPTION_RENDERED" class="x-el x-el-p c2-1 c2-2 c2-b c2-c c2-59 c2-5a c2-4 c2-8 c2-2t c2-4y c2-3 c2-5 c2-6 x-d-ux x-d-aid x-rt"><span style="color: #ec0606;"><strong> </strong></span></div>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"> </p>
+<p style="margin: 0px;"> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723204685906</id>
+      <title>XS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723204685906</id>
+      <title>S</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723204685906</id>
+      <title>M</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723204685906</id>
+      <title>L</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723204685906</id>
+      <title>XL</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723204685906</id>
+      <title>XXL</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4723204685906</id>
+      <title>XXXL</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4205712048210</id>
+    <published>2019-11-02T18:12:58-04:00</published>
+    <updated>2019-11-02T18:12:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/navy-boy"/>
+    <title>Navy Boy - Blue Long Sleeve Shirt for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/navy-boy-595212.jpg?v=1578501404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Embroidered logo on the chest</p>
+<p>- Inserts on the sleeves</p>
+<p>- The curved bottom</p>
+<p>- Embroidered logo on the chest</p>
+<p>- Inserts on the sleeves</p>
+<p>- The curved bottom edge of the product</p>
+<p>- Long sleeve</p>
+<p>- Machine washable</p>
+<p>- 95% Cotton 5% Elastane</p>
+<p><br></p>
+<p><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Shirt Size: Medium</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4205712048210</id>
+      <title>S</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4205712048210</id>
+      <title>M</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4205712048210</id>
+      <title>L</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4205712048210</id>
+      <title>XL</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4205712048210</id>
+      <title>XXL</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4205564624978</id>
+    <published>2019-11-02T18:11:00-04:00</published>
+    <updated>2019-11-02T18:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/mafo"/>
+    <title>Mafo - Black Long Sleeve Shirt for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/mafo-885324.jpg?v=1615849108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description rte">
+<p>- Embroidered logo</p>
+<p>- Signature ornament on the shoulders</p>
+<p>- The curved bottom edge of the product</p>
+<p>- Long sleeve</p>
+<p>- Machine washable</p>
+<p>- 95% cotton 5% elastane</p>
+<p> </p>
+<p><strong>MODEL<br></strong><span>Length: 1.80m</span><br><span>Weight: 202Lbs</span><br><span>T-Shirt Size: Medium</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4205564624978</id>
+      <title>S</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4205564624978</id>
+      <title>M</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4205564624978</id>
+      <title>L</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4205564624978</id>
+      <title>XL</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4205564624978</id>
+      <title>XXL</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/4206793588818</id>
+    <published>2019-11-02T18:09:24-04:00</published>
+    <updated>2019-11-02T18:09:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/glory"/>
+    <title>Glory - Burgundy/Blue Long Sleeve Shirt for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/glory-759599.jpg?v=1587793619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Embroidered logo</p>
+<p>- Blue bottom of the product</p>
+<p>- The upper part of the product with contrasting inserts</p>
+<p>- The curved bottom edge of the product</p>
+<p>- Long sleeve</p>
+<p>- Machine washable</p>
+<p>- 95% Cotton 5% Elastane</p>
+<p> </p>
+<p><span><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL<br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Shirt Size: Medium</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206793588818</id>
+      <title>S</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206793588818</id>
+      <title>M</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206793588818</id>
+      <title>L</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206793588818</id>
+      <title>XL</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/4206793588818</id>
+      <title>XXL</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/3995299774546</id>
+    <published>2019-11-01T04:08:02-04:00</published>
+    <updated>2019-11-01T04:08:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/terminator"/>
+    <title>Terminator - Black/White Long Sleeve Shirt for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/terminator-654919.jpg?v=1590138913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="QmZWSe">
+<div class="DHcWmd"><span lang="en" tabindex="0">- Embroidered logo</span></div>
+<div class="DHcWmd"><span lang="en" tabindex="0">- White bottom of the product</span></div>
+<div class="DHcWmd"><span lang="en" tabindex="0">- The upper part of the product is black</span></div>
+<div class="DHcWmd"><span lang="en" tabindex="0">- The curved bottom edge of the product</span></div>
+<div class="DHcWmd"><span lang="en" tabindex="0">- Long sleeve</span></div>
+<div class="DHcWmd"><span lang="en" tabindex="0">- Machine washable</span></div>
+<div class="DHcWmd">
+<span lang="en" tabindex="0">- 95% cotton 5% polyester</span><span lang="en" tabindex="0"></span><span lang="en" tabindex="0"></span><span lang="en" tabindex="0"></span><span lang="en" tabindex="0"></span>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3995299774546</id>
+      <title>S</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3995299774546</id>
+      <title>M</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3995299774546</id>
+      <title>L</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3995299774546</id>
+      <title>XL</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3995299774546</id>
+      <title>XXL</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/3859852623954</id>
+    <published>2019-06-21T23:20:12-04:00</published>
+    <updated>2019-06-21T23:20:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/gods-angel"/>
+    <title>God&apos;s Angel - Blue Long Sleeve Jeans Shirt for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/gods-angel-blue-long-sleeve-jeans-shirt-for-men-900118.jpg?v=1611577183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-offset-key="dn7g0-0-0">- Collar Stand </span></p>
+<p><span data-offset-key="dn7g0-0-0">- Denim </span></p>
+<p><span data-offset-key="dn7g0-0-0">- Contrasting white sleeves Jersey </span></p>
+<p><span data-offset-key="dn7g0-0-0">- Embroidered logo on the chest </span></p>
+<p><span data-offset-key="dn7g0-0-0">- a curved lower edge products </span></p>
+<p><span data-offset-key="dn7g0-0-0">- Long Sleeve </span></p>
+<p><span data-offset-key="dn7g0-0-0">- fitted cut </span></p>
+<p><span data-offset-key="dn7g0-0-0">- Machine wash </span></p>
+<p><span data-offset-key="dn7g0-0-0">- 89% cotton 8% polyester, 3% elastane; sleeves: 95% cotton 5% elastane</span></p>
+<p><span data-offset-key="dn7g0-0-0"><span style="color: #f01717;"><strong>* Important Message: This Shirt was Made little bit more longer than all shirts from our entire Collection by 4cm, also It is more tighter on the waist by 1cm. It was designed for tall people with small waist. Some people buy it and put the shirt inside the jeans or pants and it gives that cool look. Thank you</strong></span></span></p>
+<p><span data-offset-key="dn7g0-0-0"> </span></p>
+<meta charset="UTF-8">
+<p><span data-offset-key="dn7g0-0-0"><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong>MODEL 1<br>Length: 5’11<br>Weight: 190 Lbs<br>Shirt Size: Medium</strong></span></span></p>
+<p><span data-offset-key="dn7g0-0-0"><span data-ux="Element" class="x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 x-d-ux"><strong><br>MODEL 2 <br></strong>Length: 1.80m<br>Weight: 202Lbs<br>Shirt Size: Large</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859852623954</id>
+      <title>XS</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859852623954</id>
+      <title>S</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859852623954</id>
+      <title>M</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859852623954</id>
+      <title>L</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859852623954</id>
+      <title>XL</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859852623954</id>
+      <title>XXL</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sarmanfashion.com/products/3859775225938</id>
+    <published>2019-06-21T21:12:54-04:00</published>
+    <updated>2019-06-21T21:12:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sarmanfashion.com/products/long-sleeves-shirt-black-panther"/>
+    <title>Black Panther - Black Long Sleeve Shirt for Men</title>
+    <s:type>Men&apos;s Long Sleeves Shirt</s:type>
+    <s:vendor>Sarman Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0080/2481/7746/products/black-panther-554142.jpg?v=1592369609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarman Fashion<br>
+        <strong>Type: </strong>Men&#39;s Long Sleeves Shirt<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-offset-key="9ec5j-0-0">- The round neck </span></p>
+<p><span data-offset-key="9ec5j-0-0">- embroidered logo gold color </span></p>
+<p><span data-offset-key="9ec5j-0-0">- Design gold band with the inscription on the sides </span></p>
+<p><span data-offset-key="9ec5j-0-0">- Long sleeve </span></p>
+<p><span data-offset-key="9ec5j-0-0">- The curved bottom edge of the product</span></p>
+<p><span data-offset-key="9ec5j-0-0">- Machine wash </span></p>
+<p><span data-offset-key="9ec5j-0-0">- 78% viscose 18% polyester, 4% elastane</span></p>
+<p><span data-offset-key="9ec5j-0-0"><iframe src="https://www.youtube-nocookie.com/embed/17bOQwCU_Wc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Sleeves Shirts</s:tag>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859775225938</id>
+      <title>XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859775225938</id>
+      <title>S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859775225938</id>
+      <title>M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859775225938</id>
+      <title>L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859775225938</id>
+      <title>XL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sarmanfashion.com/products/3859775225938</id>
+      <title>XXL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
